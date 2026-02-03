@@ -1,5 +1,5 @@
-function caclulateArea(length , width) {
-    return length * width;
+function caclulateArea(length , width) { //function to calculate area
+    return length * width; //return area calculation
 }
 
 console.log(caclulateArea(2, 4)); //8
