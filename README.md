@@ -26,3 +26,5 @@ This project contains a set of JavaScript practice exercises designed to strengt
   - Exercise 6: Create `vehicle` and `car` objects, demonstrate inheritance
   - Exercise 7: Build multi-level prototype chain (`manager -> employee -> person`)
   - Exercise 8: Method overriding with `shape`, `rectangle`, and `circle`
+
+YOUTUBE VIDEO: https://www.youtube.com/watch?v=NBCXzb-cOjI 
