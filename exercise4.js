@@ -8,7 +8,7 @@ const student = { //create student object with respective properties
         return student.firstName + " " + student.lastName; 
     },
     enrollCourse(courseName) { //method to enroll in a course
-        student.courses.push(courseName);
+        this.courses.push(courseName);
     },
     getCourseCount() { //method to get number of enrolled courses
         return student.courses.length;
